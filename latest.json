@@ -1,5 +1,10 @@
 {
   "latestVersion": "20260503_03",
   "downloadUrl": "https://github.com/withREACHBLUE/llm-wiki-content/raw/main/SKO_lm_test.zip",
+<<<<<<< HEAD
   "releaseNotes": "Re-run update test"
 }
+=======
+  "releaseNotes": "Re-run update test v3"
+}
+>>>>>>> dd1cf7f (version bump)
