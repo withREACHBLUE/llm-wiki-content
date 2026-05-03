@@ -1,5 +1,5 @@
 {
-  "latestVersion": "20260503_03",
-  "downloadUrl": "https://github.com/withREACHBLUE/llm-wiki-content/raw/main/SKO_lm_test.zip",
-  "releaseNotes": "Re-run update test v3"
+  "latestVersion": "20260503_04",
+  "downloadUrl": "https://github.com/withREACHBLUE/llm-wiki-content/raw/main/SKO_lm_resources_test.zip",
+  "releaseNotes": "Manifest-driven project install test"
 }

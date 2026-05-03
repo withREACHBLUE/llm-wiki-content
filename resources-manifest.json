@@ -1,0 +1,12 @@
+{
+  "manifestVersion": 1,
+  "bundleId": "llmwiki-resources-20260503_04",
+  "createdAt": "2026-05-03T00:00:00Z",
+  "projects": [
+    {
+      "name": "lm",
+      "zipPath": "projects/lm",
+      "projectJsonPath": "projects/lm/.llm-wiki/project.json"
+    }
+  ]
+}
