@@ -1,5 +1,5 @@
 {
-  "latestVersion": "20260503_06",
+  "latestVersion": "20260503_07",
   "downloadUrl": "https://github.com/withREACHBLUE/llm-wiki-content/raw/main/SKO_lm_resources_20260503_03.zip",
-  "releaseNotes": "Full publish test with discovered projects Retry"
+  "releaseNotes": "Fix app-state schema"
 }
